@@ -11,11 +11,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "917466008456"
-global.ownername = "🐛 Tech God"
-global.ytname = "YT: Tech-God"
-global.socialm = "GitHub: techgod143"
-global.location = "India, Rampur, city"
+global.ownernomer = "255768318788"
+global.ownername = "AMDP_BPAD"
+global.ytname = "YT: ANDBAD"
+global.socialm = "GitHub: MARRY2001"
+global.location = "TANZANIA, DAR ES SALAAM1¹1, city"
 
 global.ownernumber = '917466008456'  //creator number
 global.ownername = 'Tech God' //owner name
@@ -23,11 +23,11 @@ global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.author = 'ANDBAD\n\nContact: +255768318788'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Tech God Bot Inc."
+global.wm = "AND_BAD Bot Inc."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
